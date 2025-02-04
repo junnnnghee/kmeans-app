@@ -1,0 +1,7 @@
+matplotlib
+sklearn.cluster
+streamlit
+pandas
+pandas.api.types
+sklearn.preprocessing
+sklearn.compose
