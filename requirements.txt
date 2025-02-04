@@ -1,7 +1,4 @@
 matplotlib
-sklearn.cluster
+scikit-learn
 streamlit
 pandas
-pandas.api.types
-sklearn.preprocessing
-sklearn.compose
