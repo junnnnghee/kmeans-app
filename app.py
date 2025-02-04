@@ -25,7 +25,7 @@ def fontRegistered():
 def main():
 
     fontRegistered()
-    plt.rc('font', family='NanumGothic')
+    plt.rc('font', family='나눔손글씨 다행체')
 
     
     st.title('K-Means Clustering App')
